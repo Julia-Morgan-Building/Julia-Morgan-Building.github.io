@@ -1,0 +1,11 @@
+window.TOOTOO_CONFIG = {
+  "headingFontUrl": "https://pushme-pullyou.github.io/assets/fonts/Windsor%20Regular.ttf",
+  "headingFont": "\"Windsor\", serif",
+  "owner": "Julia-Morgan-Building",
+  "repo": "Julia-Morgan-Building.github.io",
+  "appName": "Julia-Morgan-Building",
+  "subtitle": "The Julia Morgan Building designed by Julia Morgan and opened its doors in 1925",
+  "storagePrefix": "jmb",
+  "hiddenFiles": [],
+  "homeUrl": "https://Julia-Morgan-Building.github.io"
+};
