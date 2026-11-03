@@ -21,13 +21,25 @@ const TA_DATA =
       "note": ""
     },
     {
-      "name": "julia-morgan-blueprint-scans",
-      "url": "https://github.com/Julia-Morgan-Building/julia-morgan-blueprint-scans",
+      "name": "Julia-Morgan-Building-blueprint-scans-UCB",
+      "url": "https://github.com/Julia-Morgan-Building/Julia-Morgan-Building-blueprint-scans-UCB",
       "description": null,
-      "homepage": "https://Julia-Morgan-Building.github.io/julia-morgan-blueprint-scans/",
+      "homepage": "https://julia-morgan-building.github.io/Julia-Morgan-Building-blueprint-scans-UCB/",
       "fork": true,
       "created": "2026-10-31",
       "updated": "2026-11-01",
+      "stars": 0,
+      "pick": false,
+      "note": ""
+    },
+    {
+      "name": "2022-EIR-COA",
+      "url": "https://github.com/Julia-Morgan-Building/2022-EIR-COA",
+      "description": null,
+      "homepage": null,
+      "fork": false,
+      "created": "2026-11-03",
+      "updated": "2026-11-03",
       "stars": 0,
       "pick": false,
       "note": ""
